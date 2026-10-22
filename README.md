@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🤖 Fully developed by Claude
+#  Fully developed by Claude
 
 **This entire project (code, build scripts, icon, tests and documentation) was designed, written and tested by Claude (Anthropic's AI, Claude Opus 5.5) in Claude Code.**
 **human note here: yes i know ai code is bad i just want to screw around and if it works it works, leave me alone ok, im not denying it nor am i saying that you should use it, its your choice and its made for me.**
